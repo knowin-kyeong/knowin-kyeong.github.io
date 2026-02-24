@@ -1,0 +1,36 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+.author__avatar img {
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  object-position: top;
+}
+
+/* paragraph indention */
+$paragraph-indent           : false;
+$indent-var                 : 1.3em;
+
+html {
+  font-size: 18px;
+}
+
+.page__content p, 
+.page__content li {
+  font-size: 15px;
+}
+
+/* Section heading font size */
+.page__content h2 {
+  font-size: 22px; 
+}
+.page__content h3 {
+  font-size: 18px; 
+}
