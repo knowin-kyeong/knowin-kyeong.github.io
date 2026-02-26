@@ -16,7 +16,7 @@ Also known as **knowin-kyeong** or team **Placeholder**.
 
 <ul>
   <li style="display: flex; justify-content: space-between;">
-    <span>GPA : 4.21 / 4.3, CSE Major GPA: 4.26 / 4.3</span>
+    <span>GPA : 4.22 / 4.3, CSE Major GPA: 4.27 / 4.3</span>
     <span style="color: gray;"></span>
   </li>
   <li style="display: flex; justify-content: space-between;">
@@ -41,6 +41,7 @@ Also known as **knowin-kyeong** or team **Placeholder**.
 
 ## Projects
 You can find some of my projects on my [GitHub](https://github.com/knowin-kyeong)!
+* Simple ML challenges, Spring Boots, and some school projects!
 
 ## Achievements
 <div style="display: flex; justify-content: space-between;">
