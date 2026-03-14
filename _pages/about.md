@@ -6,6 +6,10 @@ author_profile: true
 ---
 I am Juwon Seo, a passionate computer science student at Seoul National University.
 
+I am interested in machine learning, deep learning, and artificial intelligence.
+
+Currently I am serving as a social service agent due to alternate military service, since **February 2025 to November 2026.**
+
 Also known as **knowin-kyeong** or team **Placeholder**.
 
 ## Education
