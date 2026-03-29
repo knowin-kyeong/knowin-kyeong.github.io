@@ -27,13 +27,17 @@ Also known as **knowin-kyeong** or team **Placeholder**.
 
 ## Education
 <div style="display: flex; flex-wrap: wrap; width: 100%; row-gap: 5px;">
-  <strong style="word-break: keep-all;">SNU Computer Science and Engineering</strong>
+  <strong style="word-break: keep-all;">Seoul National University</strong>
   <span style="color: gray; white-space: nowrap; margin-left: auto;">2022 Mar. - Present</span>
 </div>
 
 <ul>
   <li style="display: flex; flex-wrap: wrap; width: 100%; row-gap: 5px;">
-    <span>GPA : 4.22 / 4.3, CSE Major GPA: 4.27 / 4.3</span>
+    <span>Total GPA : 4.22 / 4.3</span>
+    <span style="color: gray; margin-left: auto;"></span>
+  </li>
+  <li style="display: flex; flex-wrap: wrap; width: 100%; row-gap: 5px;">
+    <span>Computer Science and Engineering Major GPA : 4.27 / 4.3</span>
     <span style="color: gray; margin-left: auto;"></span>
   </li>
   <li style="display: flex; flex-wrap: wrap; width: 100%; row-gap: 5px;">
