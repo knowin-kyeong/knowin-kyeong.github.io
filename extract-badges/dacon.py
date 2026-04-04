@@ -340,7 +340,7 @@ def main():
     # ---------------------------------------------------------
     # 3. SVG Layout & Rendering Configuration
     # ---------------------------------------------------------
-    W, H = 850, 250
+    W, H = 700, 250
     PAD_X = 40
     PAD_Y = 30
     
@@ -367,7 +367,7 @@ def main():
 
     # Main metrics block positioning
     METRICS_CENTER_Y = H / 2 + 20
-    X_CUR, X_TOP, X_BEST = 390, 560, 730
+    X_CUR, X_TOP, X_BEST = 290, 450, 620
     Y_LABEL = METRICS_CENTER_Y - 50
     Y_VALUE = METRICS_CENTER_Y - 10
     Y_SUB = METRICS_CENTER_Y + 15

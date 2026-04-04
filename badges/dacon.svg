@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="850" height="250" viewBox="0 0 850 250" role="img" aria-label="Dacon badge">
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="250" viewBox="0 0 700 250" role="img" aria-label="Dacon badge">
   <defs>
     <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
       <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#000" flood-opacity="0.12"/>
@@ -19,7 +19,7 @@
 </defs>
   </defs>
 
-  <rect x="16" y="16" width="818" height="218" rx="18" fill="#fff" filter="url(#shadow)"/>
+  <rect x="16" y="16" width="668" height="218" rx="18" fill="#fff" filter="url(#shadow)"/>
   
   <image href="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTI4IiBoZWlnaHQ9IjQwIiB2aWV3Qm94PSIwIDAgMTI4IDQwIiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgo8cGF0aCBkPSJNNDguNDQ1NSAxMS4zMjEzSDQ0Ljk0MDRMMzcuMjM2OSAyOC41NzE1SDQxLjE2MjlMNDYuNzY3MiAxNi4wMjg3TDUyLjAyNDkgMjguNTcxNUg1Ni4xNDlMNDguNDQ1NSAxMS4zMjEzWiIgZmlsbD0iIzNDN0NERSIvPgo8cGF0aCBkPSJNNjUuMzQ5MyAyOC45ODlDNjQuMDE0OSAyOC45ODkgNjIuNzgyMyAyOC43NDE4IDYxLjYyMTMgMjguMzQ5MUM2MC40ODUgMjcuODgyMiA1OS40NzI2IDI3LjI2NDMgNTguNjMzNCAyNi40MjY2QzU3Ljc5NDMgMjUuNTg4OSA1Ny4xMjg1IDI0LjY3NzEgNTYuNjgyOCAyMy42MTdDNTYuMjE1MSAyMi41MzIyIDU1Ljk2NzUgMjEuMzIzOCA1NS45Njc1IDE5Ljk2OThDNTUuOTY3NSAxOC42ODcyIDU2LjIxNTEgMTcuNTA2MyA1Ni42ODI4IDE2LjQyMTRDNTcuMTI4NSAxNS4zMzY2IDU3LjgxOTEgMTQuMzUwNiA1OC42NTgyIDEzLjUzNzdDNTkuNDk3MyAxMi43MjQ3IDYwLjUwOTggMTIuMTA5NiA2MS42NDYxIDExLjY2NDZDNjIuODA3MSAxMS4yMTk3IDY0LjAzOTcgMTEgNjUuMzc0IDExQzY2LjcwODQgMTEgNjguMDg5NSAxMS4yNDcyIDY5LjMwMDEgMTEuNzM4OEM3MC40ODU5IDEyLjI1NTEgNzEuMjUwNyAxMi43NzQyIDcyLjA4OTkgMTMuNzEwN0w2OS4zNDk2IDE2LjMyMjVDNjguNzU4MSAxNS43MzIxIDY4LjI4NzYgMTUuMzYxMyA2Ny42MjE4IDE1LjA4OTRDNjYuOTMxMiAxNC43OTI4IDY2LjIxNTkgMTQuNjIyNSA2NS4zOTg4IDE0LjYyMjVDNjQuNTgxNyAxNC42MjI1IDYzLjg5MzggMTQuNzcwOCA2My4yMDA1IDE1LjA0MjdDNjIuNTU5NSAxNS4yODk5IDYxLjk5IDE1LjY1NzkgNjEuNDk3NSAxNi4xMjc2QzYxLjAwNSAxNi42MTkyIDYwLjY1ODQgMTcuMjEyNCA2MC4zMzY1IDE3Ljg3N0M2MC4wODg4IDE4LjQ5MjIgNTkuOTY1IDE5LjIzMzcgNTkuOTY1IDE5Ljk3MjVDNTkuOTY1IDIwLjc2MDggNjAuMDg4OCAyMS40OTk1IDYwLjMzNjUgMjIuMTY2OUM2MC42NTg0IDIyLjc4MjEgNjEuMDAyMyAyMy4zNTA2IDYxLjQ5NzUgMjMuODQyMkM2MS45OSAyNC4zMDkxIDYyLjU1OTUgMjQuNjc5OSA2My4yMDA1IDI0Ljk1MThDNjMuODkxMSAyNS4yMjM3IDY0LjYwNjQgMjUuMzIyNSA2NS4zOTg4IDI1LjMyMjVDNjYuMTkxMSAyNS4zMjI1IDY2LjkyODUgMjUuMTk5IDY3LjYyMTggMjQuODc3NkM2OC4yODc2IDI0LjU4MSA2OC45ODA5IDI0LjA2NDcgNjkuNTcyNCAyMy40MjQ4TDcyLjE4ODkgMjYuMTM1NUM3MS4zNDk4IDI3LjEyMTQgNzAuNDg1OSAyNy43MzY2IDY5LjMwMDEgMjguMjU1N0M2OC4wODk1IDI4LjcyMjYgNjYuNzU3OSAyOC45OTQ1IDY1LjM0OTMgMjguOTk0NVYyOC45ODlaIiBmaWxsPSIjM0M3Q0RFIi8+CjxwYXRoIGQ9Ik04Mi40OTUxIDI5QzgxLjE2NjIgMjkgNzkuOTQxOSAyOC43Nzc1IDc4LjczNjggMjguMzM4MUM3Ny41ODEzIDI3Ljg3NCA3Ni41NDk2IDI3LjI1ODggNzUuNzE2IDI2LjQ0ODZDNzQuODgyMyAyNS42Mzg0IDc0LjIxOTMgMjQuNjU3OSA3My43NTE2IDIzLjU3ODZDNzMuMjg2NiAyMi40NzQ1IDczLjAzOSAyMS4yNzE2IDczLjAzOSAyMEM3My4wMzkgMTguNzI4NCA3My4yODY2IDE3LjUwMDggNzMuNzUxNiAxNi40MjE0Qzc0LjIxNjUgMTUuMzQyMSA3NC44ODIzIDE0LjM4NjMgNzUuNzE2IDEzLjU3NjFDNzYuNTQ5NiAxMi43Njg3IDc3LjU4NDEgMTIuMTU2MiA3OC43MTIxIDExLjcxMTNDNzkuOTE3MSAxMS4yNDcyIDgxLjE2NjIgMTEuMDI0NyA4Mi40OTUxIDExLjAyNDdDODMuODIzOSAxMS4wMjQ3IDg1LjA5NzggMTEuMjQ3MiA4Ni4yNTMzIDExLjcxMTNDODcuNDA4OCAxMi4xMjg4IDg4LjQxNTggMTIuNzY1OSA4OS4yNDk0IDEzLjU1MTRDOTAuMDYxIDE0LjM2MTYgOTAuNzIxMyAxNS4zMTc0IDkxLjE4OTEgMTYuNDIxNEM5MS42Nzg4IDE3LjUwMDggOTEuOTAxNiAxOC43MDM3IDkxLjkwMTYgMjBDOTEuOTAxNiAyMS4yOTYzIDkxLjY3ODggMjIuNDk5MiA5MS4xODkxIDIzLjYwMzNDOTAuNzI0MSAyNC42ODI2IDkwLjA1ODMgMjUuNjYzMSA4OS4yNDk0IDI2LjQ3MzNDODguNDE1OCAyNy4yODM1IDg3LjQwNjEgMjcuODkzMiA4Ni4yNTMzIDI4LjMzODFDODUuMDk3OCAyOC43ODAzIDgzLjg0NTkgMjkgODIuNDk1MSAyOVpNODIuNDk1MSAyNS41NDIzQzgzLjMwNjcgMjUuNTQyMyA4NC4wNDEzIDI1LjM5NCA4NC42ODIzIDI1LjE0OTVDODUuMzcwMSAyNC44ODA0IDg1LjkzNjkgMjQuNTEyNCA4Ni40NTE0IDIzLjk5NkM4Ni45NjU5IDIzLjQ3OTcgODcuMzA5OCAyMi45NDE0IDg3LjU4MjIgMjIuMjMwMUM4Ny45MDEzIDIxLjU0MzUgODguMDI1MSAyMC44MTAyIDg4LjAyNTEgMTkuOTk3M0M4OC4wMjUxIDE5LjE4NDMgODcuOTAxMyAxOC40NTM4IDg3LjYwNjkgMTcuNzY0NEM4Ny4zMzczIDE3LjEwMjUgODYuOTkzNCAxNi41MTIxIDg2LjQ3NjEgMTUuOTk4NUM4NS45MzY5IDE1LjUwOTYgODUuMzcwMSAxNS4xNDE2IDg0LjY4MjMgMTQuODY5N0M4NC4wNDQgMTQuNjAwNiA4My4zMDY3IDE0LjQ1MjIgODIuNDk1MSAxNC40NTIyQzgxLjY4MzQgMTQuNDUyMiA4MC45NzM2IDE0LjYwMDYgODAuMjU4MyAxNC44Njk3Qzc5LjU5NTIgMTUuMTM4OCA3OC45NzkgMTUuNTA2OSA3OC40ODkyIDE2LjAyMzJDNzcuOTk5NSAxNi41MTIxIDc3LjYzMDggMTcuMTI3MyA3Ny4zMzM3IDE3Ljc4OTFDNzcuMDE0NiAxOC40NTEgNzYuODkwNyAxOS4xODQzIDc2Ljg5MDcgMTkuOTk3M0M3Ni44OTA3IDIwLjgxMDIgNzcuMDE0NiAyMS41MTYgNzcuMzMzNyAyMi4yMDU0Qzc3LjYyODEgMjIuOTE2NyA3Ny45OTY4IDIzLjQ4MjUgNzguNDg5MiAyMy45OTZDNzguOTgxNyAyNC41MDk2IDc5LjU5NTIgMjQuODc3NiA4MC4yNTgzIDI1LjE0OTVDODAuOTcwOSAyNS4zOTY3IDgxLjcwNTUgMjUuNTQyMyA4Mi40OTUxIDI1LjU0MjNaIiBmaWxsPSIjM0M3Q0RFIi8+CjxwYXRoIGQ9Ik0xMDYuNTQ5IDExLjMxODZWMjIuNTgxNkw5Ny42NjI4IDExLjMxODZIOTQuMzI4M0w5NC4zMDM1IDI4LjU3NDNIOTguMDU5VjE3LjM1OEwxMDYuOTQ4IDI4LjU3NDNIMTEwLjI4M1YxMS4zMTg2SDEwNi41NDlaIiBmaWxsPSIjM0M3Q0RFIi8+CjxwYXRoIGQ9Ik0yMS4wNTY3IDI4LjU0OTZMMjEuMDUxMSAxMy4wOUwyMi4zNzE4IDE0LjY4MDJIMThWMTEuMzIxM0gyNC43MzIzVjI4LjU0NjhIMjEuMDU2N1YyOC41NDk2WiIgZmlsbD0iIzNDN0NERSIvPgo8cGF0aCBkPSJNMjguMzM5MyAyOC41NzE1SDIxLjA1NjdWMTEuMzIxM0gyOC4zMzkzQzM0LjI0MDcgMTEuMzIxMyAzNy4zMDAxIDE0LjAzMiAzNy4zMDAxIDE5LjQ3ODJDMzcuMzAwMSAyNS41MTQ4IDM0LjIzOCAyOC41NzE1IDI4LjMzOTMgMjguNTcxNVpNMjQuNzM1MSAxNC42NzE5VjI1LjIyMDlIMjguMzE0NUMzMS42NDYzIDI1LjIyMDkgMzMuNjIxNyAyMy41MjA5IDMzLjYyMTcgMTkuNDUzNEMzMy42MjE3IDE1LjgzMDkgMzEuNjQ2MyAxNC42NzE5IDI4LjMxNDUgMTQuNjcxOUgyNC43MzUxWiIgZmlsbD0iIzNDN0NERSIvPgo8L3N2Zz4K" x="40" y="30" width="170" height="48" />
 
@@ -29,39 +29,39 @@
     knowin_kyeong
   </text>
 
-  <text x="390" y="95.0" text-anchor="middle"
+  <text x="290" y="95.0" text-anchor="middle"
         font-family="system-ui,-apple-system,Segoe UI,Roboto,Arial"
         font-size="11" font-weight="800" fill="#747474" letter-spacing="0.5">
     Current rank
   </text>
-  <text x="390" y="135.0" text-anchor="middle"
+  <text x="290" y="135.0" text-anchor="middle"
         font-family="system-ui,-apple-system,Segoe UI,Roboto,Arial"
         font-size="38" font-weight="900" fill="#747474">
-    276
+    277
   </text>
-  <text x="390" y="160.0" text-anchor="middle"
+  <text x="290" y="160.0" text-anchor="middle"
         font-family="system-ui,-apple-system,Segoe UI,Roboto,Arial"
         font-size="11" font-weight="600" fill="#666">
-    of 154,298
+    of 154,592
   </text>
 
-  <text x="560" y="95.0" text-anchor="middle"
+  <text x="450" y="95.0" text-anchor="middle"
         font-family="system-ui,-apple-system,Segoe UI,Roboto,Arial"
         font-size="11" font-weight="800" fill="#666" letter-spacing="0.5">
     Top percentile
   </text>
-  <text x="560" y="135.0" text-anchor="middle"
+  <text x="450" y="135.0" text-anchor="middle"
         font-family="system-ui,-apple-system,Segoe UI,Roboto,Arial"
         font-size="38" font-weight="900" fill="#747474">
     0.18%
   </text>
 
-  <text x="730" y="95.0" text-anchor="middle"
+  <text x="620" y="95.0" text-anchor="middle"
         font-family="system-ui,-apple-system,Segoe UI,Roboto,Arial"
         font-size="11" font-weight="800" fill="#747474" letter-spacing="0.5">
     Best rank
   </text>
-  <text x="730" y="135.0" text-anchor="middle"
+  <text x="620" y="135.0" text-anchor="middle"
         font-family="system-ui,-apple-system,Segoe UI,Roboto,Arial"
         font-size="38" font-weight="900" fill="#747474">
     272
@@ -81,21 +81,21 @@
     Competition Silver
   </text>
 
-  <text x="560.0" y="183.4" text-anchor="middle"
+  <text x="455.0" y="183.4" text-anchor="middle"
         font-family="system-ui,-apple-system,Segoe UI,Roboto,Arial"
         font-size="11" font-weight="600" fill="#666" letter-spacing="0.2">
     Awards: 1  |  Top 1%: 1  |  Top 4%: 1  |  Top 10%: 0
   </text>
 
-  <text x="560.0" y="201.4" text-anchor="middle"
+  <text x="455.0" y="201.4" text-anchor="middle"
         font-family="system-ui,-apple-system,Segoe UI,Roboto,Arial"
         font-size="11" font-weight="600" fill="#666" letter-spacing="0.2">
     Solo: 0  |  Team: 2  |  Total: 2
   </text>
 
-  <text x="815" y="220" text-anchor="end"
+  <text x="665" y="220" text-anchor="end"
         font-family="system-ui,-apple-system,Segoe UI,Roboto,Arial"
         font-size="10" font-weight="500" fill="#000000" letter-spacing="0.2">
-    As of 2026-03-29
+    As of 2026-04-04
   </text>
 </svg>
