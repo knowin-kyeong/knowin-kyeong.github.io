@@ -72,6 +72,8 @@ You can find some of my projects on my [GitHub](https://github.com/knowin-kyeong
 
 * Top 0.62% in the final Result (Awarded 3rd) [(Link)](https://dacon.io/competitions/official/236686)
 
+<br>
+
 <div style="display: flex; flex-wrap: wrap; width: 100%; row-gap: 5px;">
   <span style="word-break: keep-all;">2026 BDA Completion Prediction Challenge</span>
   <span style="color: gray; white-space: nowrap; margin-left: auto;">Private 15th / 733</span>
