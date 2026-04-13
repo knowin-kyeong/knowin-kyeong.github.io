@@ -66,6 +66,13 @@ You can find some of my projects on my [GitHub](https://github.com/knowin-kyeong
 
 ## Achievements
 <div style="display: flex; flex-wrap: wrap; width: 100%; row-gap: 5px;">
+  <strong style="word-break: keep-all;">2026 Structural Stability Physical Reasoning AI Challenge</strong>
+  <span style="color: gray; white-space: nowrap; margin-left: auto;"><strong>Final 3rd</strong> /  484</span>
+</div>
+
+* Top 0.62% in the final Result (Awarded 3rd) [(Link)](https://dacon.io/competitions/official/236686)
+
+<div style="display: flex; flex-wrap: wrap; width: 100%; row-gap: 5px;">
   <span style="word-break: keep-all;">2026 BDA Completion Prediction Challenge</span>
   <span style="color: gray; white-space: nowrap; margin-left: auto;">Private 15th / 733</span>
 </div>
