@@ -37,12 +37,12 @@
   <text x="290" y="135.0" text-anchor="middle"
         font-family="system-ui,-apple-system,Segoe UI,Roboto,Arial"
         font-size="38" font-weight="900" fill="#B8942F">
-    116
+    110
   </text>
   <text x="290" y="160.0" text-anchor="middle"
         font-family="system-ui,-apple-system,Segoe UI,Roboto,Arial"
         font-size="11" font-weight="600" fill="#666">
-    of 158,102
+    of 161,114
   </text>
 
   <text x="450" y="95.0" text-anchor="middle"
@@ -64,7 +64,7 @@
   <text x="620" y="135.0" text-anchor="middle"
         font-family="system-ui,-apple-system,Segoe UI,Roboto,Arial"
         font-size="38" font-weight="900" fill="#B8942F">
-    116
+    109
   </text>
 
   <svg x="90.22" y="85.0" width="100.0" height="100.0" viewBox="0 0 52 52" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet"><g clip-path="url(#clip0_201_394_1a41ef70)">
@@ -90,12 +90,12 @@
   <text x="455.0" y="201.4" text-anchor="middle"
         font-family="system-ui,-apple-system,Segoe UI,Roboto,Arial"
         font-size="11" font-weight="600" fill="#666" letter-spacing="0.2">
-    Solo: 0  |  Team: 4  |  Total: 4
+    Solo: 1  |  Team: 4  |  Total: 5
   </text>
 
   <text x="665" y="220" text-anchor="end"
         font-family="system-ui,-apple-system,Segoe UI,Roboto,Arial"
         font-size="10" font-weight="500" fill="#000000" letter-spacing="0.2">
-    As of 2026-05-30
+    As of 2026-07-04
   </text>
 </svg>
