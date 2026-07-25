@@ -49,7 +49,7 @@ Also known as **knowin-kyeong** or team **Placeholder**.
     <span style="color: gray; white-space: nowrap; margin-left: auto;">2023 Sep. - Present</span>
   </li>
   <li style="display: flex; flex-wrap: wrap; width: 100%; row-gap: 5px;">
-    <span style="word-break: keep-all;">Kim Jacheol AI class, 1st cohort</span>
+    <span style="word-break: keep-all;">Kim Jaecheol AI class, 1st cohort</span>
     <span style="color: gray; white-space: nowrap; margin-left: auto;">(Expected) 2026 Sep. - Present</span>
   </li>
 </ul>
