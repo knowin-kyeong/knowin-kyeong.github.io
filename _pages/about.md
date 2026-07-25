@@ -48,6 +48,10 @@ Also known as **knowin-kyeong** or team **Placeholder**.
     <span style="word-break: keep-all;">Minor in Economics</span>
     <span style="color: gray; white-space: nowrap; margin-left: auto;">2023 Sep. - Present</span>
   </li>
+  <li style="display: flex; flex-wrap: wrap; width: 100%; row-gap: 5px;">
+    <span style="word-break: keep-all;">Kim Jacheol AI class, 1st cohort</span>
+    <span style="color: gray; white-space: nowrap; margin-left: auto;">(Expected) 2026 Sep. - Present</span>
+  </li>
 </ul>
 
 <div style="display: flex; flex-wrap: wrap; width: 100%; row-gap: 5px;">
@@ -65,6 +69,15 @@ You can find some of my projects on my [GitHub](https://github.com/knowin-kyeong
 * Simple ML challenges, Spring Boots, and some school projects!
 
 ## Achievements
+<div style="display: flex; flex-wrap: wrap; width: 100%; row-gap: 5px;">
+  <strong style="word-break: keep-all;">2026 Unmanned Store Object Detection Challenge</strong>
+  <span style="color: gray; white-space: nowrap; margin-left: auto;"><strong>Final 3rd</strong> /  55</span>
+</div>
+
+* Top 5.46% in the final Result (Awarded 3rd) [(Link)](https://www.disu.ac.kr/LOCnLOS/AIX/notice?md=v&bbsidx=8794)
+
+<br>
+
 <div style="display: flex; flex-wrap: wrap; width: 100%; row-gap: 5px;">
   <strong style="word-break: keep-all;">2026 Structural Stability Physical Reasoning AI Challenge</strong>
   <span style="color: gray; white-space: nowrap; margin-left: auto;"><strong>Final 3rd</strong> /  484</span>
@@ -89,6 +102,9 @@ You can find some of my projects on my [GitHub](https://github.com/knowin-kyeong
 </div>
 
 * Top 0.43% in the final Result (Awarded 4th) [(Link)](https://dacon.io/competitions/official/236647)
+
+## Experience
+And more challenges that missed out on top 4% positions...
 
 ## Scholarships
 <div style="display: flex; flex-wrap: wrap; width: 100%; row-gap: 5px;">
