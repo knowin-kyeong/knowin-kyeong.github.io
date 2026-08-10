@@ -87,6 +87,7 @@ You can find some of my projects on my [GitHub](https://github.com/knowin-kyeong
 </div>
 
 * Top 5.46% in the final Result (Awarded 3rd) [(Link)](https://www.disu.ac.kr/LOCnLOS/AIX/notice?md=v&bbsidx=8794)
+* Galaxy Tab awarded
 
 <br>
 
@@ -114,6 +115,7 @@ You can find some of my projects on my [GitHub](https://github.com/knowin-kyeong
 </div>
 
 * Top 0.43% in the final Result (Awarded 4th) [(Link)](https://dacon.io/competitions/official/236647)
+* Bronze prize, 0.2M KRW awarded 
 
 ## Experience
 And more challenges that missed out on top 4% positions...
