@@ -79,6 +79,8 @@ You can find some of my projects on my [GitHub](https://github.com/knowin-kyeong
 * Top 1.94% in the final Result (Awarded 4th) [(Link)](https://snuaichallenge.github.io/)
 * Bronze prize, 2M KRW awarded 
 
+<br>
+
 <div style="display: flex; flex-wrap: wrap; width: 100%; row-gap: 5px;">
   <strong style="word-break: keep-all;">2026 Unmanned Store Object Detection Challenge</strong>
   <span style="color: gray; white-space: nowrap; margin-left: auto;"><strong>Final 3rd</strong> /  55</span>
