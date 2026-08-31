@@ -71,7 +71,6 @@ You can find some of my projects on my [GitHub](https://github.com/knowin-kyeong
 ## Achievements
 <div style="display: flex; flex-wrap: wrap; width: 100%; row-gap: 5px;">
   <strong style="word-break: keep-all;">2026 SNU FastMRI Challenge</strong>
-  <span style="flex-basis: 100%; height: 0;"></span>
   <span style="color: gray; white-space: nowrap; margin-left: auto;"><strong>Final 3rd</strong> /  186</span>
 </div>
 
