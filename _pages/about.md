@@ -70,12 +70,25 @@ You can find some of my projects on my [GitHub](https://github.com/knowin-kyeong
 
 ## Achievements
 <div style="display: flex; flex-wrap: wrap; width: 100%; row-gap: 5px;">
+  <strong style="word-break: keep-all;">LG Aimers 9th</strong>
+  <span style="color: gray; white-space: nowrap; margin-left: auto;">
+  Preliminary 19th /  1090</span>
+  <span style="flex-basis: 100%; height: 0;"></span>
+  <span style="color: gray; white-space: nowrap; margin-left: auto;">
+  Final 11th</strong> /  33</span>
+</div>
+
+* Top 1.01% in the final Result (Final 11th) [(Link)](https://dacon.io/competitions/official/236767/overview/description)
+
+<br>
+
+<div style="display: flex; flex-wrap: wrap; width: 100%; row-gap: 5px;">
   <strong style="word-break: keep-all;">2026 SNU FastMRI Challenge</strong>
   <span style="color: gray; white-space: nowrap; margin-left: auto;"><strong>Final 3rd</strong> /  186</span>
 </div>
 
 * Top 1.62% in the final Result (Awarded 3rd) [(Link)](https://fastmri.snu.ac.kr/)
-* ?M KRW awarded 
+* 3.75M KRW awarded 
 
 <br>
 
