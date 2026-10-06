@@ -75,7 +75,7 @@ You can find some of my projects on my [GitHub](https://github.com/knowin-kyeong
   Preliminary 19th /  1090</span>
   <span style="flex-basis: 100%; height: 0;"></span>
   <span style="color: gray; white-space: nowrap; margin-left: auto;">
-  Final 11th</strong> /  33</span>
+  Final 11th /  33</span>
 </div>
 
 * Top 1.01% in the final Result (Final 11th) [(Link)](https://dacon.io/competitions/official/236767/overview/description)
