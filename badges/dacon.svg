@@ -37,12 +37,12 @@
   <text x="290" y="135.0" text-anchor="middle"
         font-family="system-ui,-apple-system,Segoe UI,Roboto,Arial"
         font-size="38" font-weight="900" fill="#B8942F">
-    110
+    72
   </text>
   <text x="290" y="160.0" text-anchor="middle"
         font-family="system-ui,-apple-system,Segoe UI,Roboto,Arial"
         font-size="11" font-weight="600" fill="#666">
-    of 161,114
+    of 169,260
   </text>
 
   <text x="450" y="95.0" text-anchor="middle"
@@ -53,7 +53,7 @@
   <text x="450" y="135.0" text-anchor="middle"
         font-family="system-ui,-apple-system,Segoe UI,Roboto,Arial"
         font-size="38" font-weight="900" fill="#B8942F">
-    0.07%
+    0.04%
   </text>
 
   <text x="620" y="95.0" text-anchor="middle"
@@ -64,7 +64,7 @@
   <text x="620" y="135.0" text-anchor="middle"
         font-family="system-ui,-apple-system,Segoe UI,Roboto,Arial"
         font-size="38" font-weight="900" fill="#B8942F">
-    109
+    72
   </text>
 
   <svg x="90.22" y="85.0" width="100.0" height="100.0" viewBox="0 0 52 52" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet"><g clip-path="url(#clip0_201_394_1a41ef70)">
@@ -84,18 +84,18 @@
   <text x="455.0" y="183.4" text-anchor="middle"
         font-family="system-ui,-apple-system,Segoe UI,Roboto,Arial"
         font-size="11" font-weight="600" fill="#666" letter-spacing="0.2">
-    Awards: 2  |  Top 1%: 1  |  Top 4%: 1  |  Top 10%: 2
+    Awards: 2  |  Top 1%: 1  |  Top 4%: 2  |  Top 10%: 2
   </text>
 
   <text x="455.0" y="201.4" text-anchor="middle"
         font-family="system-ui,-apple-system,Segoe UI,Roboto,Arial"
         font-size="11" font-weight="600" fill="#666" letter-spacing="0.2">
-    Solo: 1  |  Team: 4  |  Total: 5
+    Solo: 2  |  Team: 7  |  Total: 9
   </text>
 
   <text x="665" y="220" text-anchor="end"
         font-family="system-ui,-apple-system,Segoe UI,Roboto,Arial"
         font-size="10" font-weight="500" fill="#000000" letter-spacing="0.2">
-    As of 2026-07-04
+    As of 2026-10-17
   </text>
 </svg>

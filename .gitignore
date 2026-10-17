@@ -36,4 +36,10 @@ _site
 
 # Doc files
 /docs
+
+# CLAUDE
+/.omc
 CLAUDE.md
+
+# CV
+/cv
