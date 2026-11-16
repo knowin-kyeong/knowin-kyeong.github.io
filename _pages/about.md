@@ -6,9 +6,9 @@ author_profile: true
 ---
 I am Juwon Seo, a passionate computer science student at Seoul National University.
 
-I am interested in machine learning, deep learning, and artificial intelligence.
+I am interested in robotics, reinforcement learning, and artificial intelligence.
 
-Currently I am serving as a social service agent due to alternate military service, since **February 2025 to November 2026.**
+I served as a social service agent due to alternate military service, from **February 2025 to November 2026.**
 
 Also known as **knowin-kyeong** or team **Placeholder**.
 
@@ -69,6 +69,26 @@ You can find some of my projects on my [GitHub](https://github.com/knowin-kyeong
 * Simple ML challenges, Spring Boots, and some school projects!
 
 ## Achievements
+<div style="display: flex; flex-wrap: wrap; width: 100%; row-gap: 5px;">
+  <strong style="word-break: keep-all;">2026 SNU QISKIT FALL FEST Hackerthon</strong>
+  <span style="color: gray; white-space: nowrap; margin-left: auto;"><strong>Final 1st</strong> /  22</span>
+</div>
+
+* Top 4.55% in the final Result (Awarded 1st) [(Link)](https://snuquantums.github.io/snu-qff2026/hackathon.html)
+* 0.32M KRW awarded 
+
+<br>
+
+<div style="display: flex; flex-wrap: wrap; width: 100%; row-gap: 5px;">
+  <strong style="word-break: keep-all;">Korean AI Malpyeong Challenge</strong>
+  <span style="color: gray; white-space: nowrap; margin-left: auto;"><strong>Final 4th</strong> /  54</span>
+</div>
+
+* Top 7.41% in the final Result (Awarded 4th) [(Link)](https://kli.korean.go.kr/benchmark/taskOrdtm/taskList.do?taskOrdtmId=205&clCd=ING_TASK)
+* 2M KRW awarded 
+
+<br>
+
 <div style="display: flex; flex-wrap: wrap; width: 100%; row-gap: 5px;">
   <strong style="word-break: keep-all;">LG Aimers 9th</strong>
   <span style="color: gray; white-space: nowrap; margin-left: auto;">
